@@ -29,4 +29,3 @@ I am back ! More codes on the leetcode of mine.
 再次更改命名方式</br>
 发现每次都要打个i很蠢，遂省略这个i，不特别声明的文档皆为本人所写。</br>
 然后o实在是不好看，以后别人的思路用s来代替。</br>
-
